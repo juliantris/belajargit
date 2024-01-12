@@ -1,4 +1,4 @@
-tipe-tipe orang ketawa </br>
+tipe-tipe orang ketawa <br>
 -ketawa normal:hahaha  </br>
 -ketawa agak ketawa:wkwkwk </br>
 -ketawa ngakak: awokawokawokawok </br>
